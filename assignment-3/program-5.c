@@ -11,6 +11,5 @@ int main() {
     result = number/10;
 
     printf("The number without its last digit is: %d\n", result);
-
     return 0;
 }
