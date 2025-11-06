@@ -8,6 +8,7 @@ int main()
     b = 10;
 
     a = a+b, b = a-b, a=a-b;
+    // a+b - (b=a);
      printf("a = %d, b=%d\n", a, b);
     return 0;
 };
